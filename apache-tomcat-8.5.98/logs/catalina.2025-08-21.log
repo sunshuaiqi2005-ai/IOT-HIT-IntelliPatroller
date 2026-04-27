@@ -1,0 +1,86 @@
+21-Aug-2025 14:28:08.249 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.98
+21-Aug-2025 14:28:08.252 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jan 5 2024 15:56:27 UTC
+21-Aug-2025 14:28:08.255 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.98.0
+21-Aug-2025 14:28:08.255 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+21-Aug-2025 14:28:08.255 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+21-Aug-2025 14:28:08.255 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+21-Aug-2025 14:28:08.255 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\bin\Java\jdk-1.8\jre
+21-Aug-2025 14:28:08.255 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_401-b10
+21-Aug-2025 14:28:08.255 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+21-Aug-2025 14:28:08.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 14:28:08.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 14:28:08.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\conf\logging.properties
+21-Aug-2025 14:28:08.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Aug-2025 14:28:08.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+21-Aug-2025 14:28:08.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Aug-2025 14:28:08.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+21-Aug-2025 14:28:08.257 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 14:28:08.257 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 14:28:08.258 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\temp
+21-Aug-2025 14:28:08.258 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.4]加载了基于APR的Apache Tomcat本机库[1.2.39]。
+21-Aug-2025 14:28:08.259 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]、UDS [{4}]。
+21-Aug-2025 14:28:08.259 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+21-Aug-2025 14:28:08.263 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 3.0.11 19 Sep 2023]
+21-Aug-2025 14:28:08.359 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+21-Aug-2025 14:28:08.374 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 353 ms
+21-Aug-2025 14:28:08.419 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+21-Aug-2025 14:28:08.419 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.98]
+21-Aug-2025 14:28:08.433 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\servers.war]
+21-Aug-2025 14:28:09.761 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+21-Aug-2025 14:28:11.879 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[174]毫秒。
+21-Aug-2025 14:28:11.895 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\servers.war]的部署已在[3,462]ms内完成
+21-Aug-2025 14:28:11.896 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\docs]
+21-Aug-2025 14:28:11.915 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\docs]的部署已在[19]毫秒内完成
+21-Aug-2025 14:28:11.916 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\examples]
+21-Aug-2025 14:28:12.099 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\examples]的部署已在[183]毫秒内完成
+21-Aug-2025 14:28:12.099 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\host-manager]
+21-Aug-2025 14:28:12.123 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\host-manager]的部署已在[24]毫秒内完成
+21-Aug-2025 14:28:12.124 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\manager]
+21-Aug-2025 14:28:12.140 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\manager]的部署已在[16]毫秒内完成
+21-Aug-2025 14:28:12.140 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\ROOT]
+21-Aug-2025 14:28:12.153 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\ROOT]的部署已在[13]毫秒内完成
+21-Aug-2025 14:28:12.159 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+21-Aug-2025 14:28:12.180 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 3805 ms
+21-Aug-2025 19:38:41.480 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.98
+21-Aug-2025 19:38:41.482 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jan 5 2024 15:56:27 UTC
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.98.0
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\bin\Java\jdk-1.8\jre
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_401-b10
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+21-Aug-2025 19:38:41.484 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 19:38:41.485 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 19:38:41.485 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\conf\logging.properties
+21-Aug-2025 19:38:41.485 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Aug-2025 19:38:41.485 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+21-Aug-2025 19:38:41.485 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Aug-2025 19:38:41.485 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+21-Aug-2025 19:38:41.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 19:38:41.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98
+21-Aug-2025 19:38:41.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\temp
+21-Aug-2025 19:38:41.488 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.4]加载了基于APR的Apache Tomcat本机库[1.2.39]。
+21-Aug-2025 19:38:41.488 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]、UDS [{4}]。
+21-Aug-2025 19:38:41.488 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+21-Aug-2025 19:38:41.493 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 3.0.11 19 Sep 2023]
+21-Aug-2025 19:38:41.608 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+21-Aug-2025 19:38:41.622 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 388 ms
+21-Aug-2025 19:38:41.668 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+21-Aug-2025 19:38:41.668 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.98]
+21-Aug-2025 19:38:41.681 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\servers.war]
+21-Aug-2025 19:38:43.102 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+21-Aug-2025 19:38:45.101 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[188]毫秒。
+21-Aug-2025 19:38:45.113 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\servers.war]的部署已在[3,432]ms内完成
+21-Aug-2025 19:38:45.113 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\docs]
+21-Aug-2025 19:38:45.125 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\docs]的部署已在[12]毫秒内完成
+21-Aug-2025 19:38:45.126 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\examples]
+21-Aug-2025 19:38:45.299 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\examples]的部署已在[173]毫秒内完成
+21-Aug-2025 19:38:45.299 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\host-manager]
+21-Aug-2025 19:38:45.317 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\host-manager]的部署已在[18]毫秒内完成
+21-Aug-2025 19:38:45.317 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\manager]
+21-Aug-2025 19:38:45.333 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\manager]的部署已在[16]毫秒内完成
+21-Aug-2025 19:38:45.333 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\ROOT]
+21-Aug-2025 19:38:45.347 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\Administrator\Desktop\chenhaobisai\apache-tomcat-8.5.98\webapps\ROOT]的部署已在[13]毫秒内完成
+21-Aug-2025 19:38:45.350 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+21-Aug-2025 19:38:45.362 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 3739 ms
